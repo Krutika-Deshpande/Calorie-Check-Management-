@@ -1,0 +1,2 @@
+# Calorie-Check-Management-
+The purpose of this project is to develop an application where the manufacturing enterprise creates a product.  A Food Lab Enterprise assigns the proteins , fats and  carbohydrates to the manufactured product. Based on the nutrition components, calories are assigned to the product.  Customer can check the products and order them based on the calorie intake specified to him
